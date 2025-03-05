@@ -5,8 +5,7 @@ class Player : public Entity
 {
 	bool isAlive = true;
 public:
-	EntityType type = PLAYER;
-	Player(sf::Vector2f position, sf::Vector2f velocity) : Entity(position, velocity, type) {}
+	Player(sf::Vector2f position, sf::Vector2f velocity) : Entity(position, velocity, ET::EntityType::PLAYER) {}
 	void update(float deltaTime) override;
 	void draw(sf::RenderWindow* window) override;
 	void die() override;

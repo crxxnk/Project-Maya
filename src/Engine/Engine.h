@@ -11,4 +11,5 @@ class Engine {
 	Editor editor;
 public:
 	void run();
+	Engine() = default;
 };

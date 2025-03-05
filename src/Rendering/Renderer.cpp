@@ -6,7 +6,7 @@ void Renderer::draw(sf::RenderWindow* window, const Settings &settings)
 
     sf::CircleShape circle(100.0f);
     circle.setFillColor(sf::Color::Cyan);
-    this->window->setFramerateLimit(settings.maxFps);
+    this->window->setFramerateLimit(settings.MAX_FPS);
     this->window->clear();
     this->window->draw(circle);
     this->window->display();

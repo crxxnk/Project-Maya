@@ -13,7 +13,7 @@ void Player::draw(sf::RenderWindow* window)
 
 void Player::die()
 {
-	std::cout << "Player died" << std::endl;
+	std::cout << "Player died " << getID() <<std::endl;
 }
 
 void Player::handleInput(float deltaTime)

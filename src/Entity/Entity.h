@@ -6,9 +6,9 @@
 
 class Entity
 {
-	uint32_t ID = 0;
+	uint32_t ID;
 public:
-	EntityType type;
+	ET::EntityType type;
 	sf::Vector2f position;
 	sf::Vector2f velocity;
 	bool shouldBeRemoved = false;
@@ -17,9 +17,10 @@ public:
 
 	virtual void die();
 
-	Entity(sf::Vector2f position, sf::Vector2f velocity, EntityType type) : position(position), velocity(velocity), type(type) {
+	Entity(sf::Vector2f position, sf::Vector2f velocity, ET::EntityType type) : position(position), velocity(velocity), type(type) {
+		std::cout << "Entity created with type: " << std::hex << static_cast<uint32_t>(type) << "\n";
 		ID = EntityManager::getInstance().getNewID(type);
 	}
 	~Entity() { EntityManager::getInstance().freeID(ID); }
-	unsigned int getID() const { return ID; }
+	uint32_t getID() const { return ID; }
 };

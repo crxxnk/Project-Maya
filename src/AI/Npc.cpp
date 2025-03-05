@@ -20,4 +20,5 @@ void NPC::draw(sf::RenderWindow* window)
 void NPC::die()
 {
     std::cout << "NPC died" << std::endl;
+    shouldBeRemoved = true;
 }

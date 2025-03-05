@@ -16,4 +16,5 @@ class Editor {
 	void handleEditorMouseClick(sf::RenderWindow* window, Grid* grid);
 public:
 	void run(sf::RenderWindow* window);
+	Editor(int width = 20, int height = 15) : grid(width, height) {}
 };

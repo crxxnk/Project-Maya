@@ -8,10 +8,10 @@ class EntityManager
 {
 private:
     std::queue<uint32_t> available;
-    std::unordered_map<EntityType, uint16_t> counters;
+    std::unordered_map<ET::EntityType, uint32_t> counters;
 
 public:
-    uint32_t getNewID(EntityType type);
+    uint32_t getNewID(ET::EntityType type);
     static EntityManager& getInstance() {
         static EntityManager instance;
         return instance;

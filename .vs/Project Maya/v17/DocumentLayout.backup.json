@@ -3,48 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Editor\\Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Game\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Editor\\Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\AI\\Npc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Game\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Engine\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityManager\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\EntityManager\\EntityManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityManager\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\EntityManager\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityManager\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\EntityManager\\EntityManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Rendering\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Grid\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityType\\EntityType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Entity\\EntityType\\EntityType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\AI\\Npc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Grid\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:GameState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Editor\\Editor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Editor\\Editor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Engine\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Settings\\Settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Settings\\Settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Rendering\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -53,46 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Grid\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Grid\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Grid\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Rendering\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Rendering\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Settings\\Settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Settings\\Settings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\AI\\Npc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\AI\\Npc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8C08FF8E-49D4-4B11-BF37-FBA4A7CA522D}|Project Maya.vcxproj|solutionrelative:src\\Player\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,23 +106,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 20,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Npc.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.cpp",
+              "RelativeDocumentMoniker": "src\\AI\\Npc.cpp",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.cpp",
+              "RelativeToolTip": "src\\AI\\Npc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T14:52:43.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntityType.h",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityType\\EntityType.h",
+              "RelativeDocumentMoniker": "src\\Entity\\EntityType\\EntityType.h",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityType\\EntityType.h",
+              "RelativeToolTip": "src\\Entity\\EntityType\\EntityType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T11:35:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Grid.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.h",
               "RelativeDocumentMoniker": "src\\Grid\\Grid.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.h",
               "RelativeToolTip": "src\\Grid\\Grid.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T19:46:19.049Z"
+              "WhenOpened": "2025-03-04T19:46:19.049Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "Tile.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Tile.h",
               "RelativeDocumentMoniker": "src\\Grid\\Tile.h",
@@ -136,25 +167,27 @@
               "RelativeDocumentMoniker": "src\\Grid\\Grid.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Grid.cpp",
               "RelativeToolTip": "src\\Grid\\Grid.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T19:47:49.576Z"
+              "WhenOpened": "2025-03-04T19:47:49.576Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Settings.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Settings\\Settings.h",
               "RelativeDocumentMoniker": "src\\Settings\\Settings.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Settings\\Settings.h",
               "RelativeToolTip": "src\\Settings\\Settings.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T18:58:55.795Z"
+              "WhenOpened": "2025-03-04T18:58:55.795Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Renderer.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.h",
               "RelativeDocumentMoniker": "src\\Rendering\\Renderer.h",
@@ -162,47 +195,38 @@
               "RelativeToolTip": "src\\Rendering\\Renderer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T17:42:43.136Z"
+              "WhenOpened": "2025-03-04T17:42:43.136Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "Renderer.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.cpp",
               "RelativeDocumentMoniker": "src\\Rendering\\Renderer.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Rendering\\Renderer.cpp",
               "RelativeToolTip": "src\\Rendering\\Renderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T17:38:05.1Z"
+              "WhenOpened": "2025-03-04T17:38:05.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Npc.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.cpp",
-              "RelativeDocumentMoniker": "src\\AI\\Npc.cpp",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.cpp",
-              "RelativeToolTip": "src\\AI\\Npc.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T15:45:58.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "Npc.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.h",
               "RelativeDocumentMoniker": "src\\AI\\Npc.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\AI\\Npc.h",
               "RelativeToolTip": "src\\AI\\Npc.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T15:41:25.929Z"
+              "WhenOpened": "2025-03-04T15:41:25.929Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
@@ -210,7 +234,8 @@
               "RelativeToolTip": "src\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T14:31:52.912Z"
+              "WhenOpened": "2025-03-04T14:31:52.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -220,7 +245,7 @@
               "RelativeDocumentMoniker": "src\\Game\\Game.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Game\\Game.cpp",
               "RelativeToolTip": "src\\Game\\Game.cpp",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAhwGQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-04T14:15:53.887Z",
               "EditorCaption": ""
@@ -233,44 +258,46 @@
               "RelativeDocumentMoniker": "src\\Game\\Game.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Game\\Game.h",
               "RelativeToolTip": "src\\Game\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-04T14:15:42.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 5,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.cpp",
               "RelativeDocumentMoniker": "src\\Player\\Player.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.cpp",
               "RelativeToolTip": "src\\Player\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-04T14:15:00.025Z"
+              "WhenOpened": "2025-03-04T14:15:00.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 3,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.h",
               "RelativeDocumentMoniker": "src\\Player\\Player.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Player\\Player.h",
               "RelativeToolTip": "src\\Player\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T14:10:43.4Z"
+              "WhenOpened": "2025-03-04T14:10:43.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "EntityManager.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityManager\\EntityManager.cpp",
               "RelativeDocumentMoniker": "src\\Entity\\EntityManager\\EntityManager.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityManager\\EntityManager.cpp",
               "RelativeToolTip": "src\\Entity\\EntityManager\\EntityManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-04T13:57:14.015Z",
               "EditorCaption": ""
@@ -283,14 +310,14 @@
               "RelativeDocumentMoniker": "src\\Entity\\EntityManager\\EntityManager.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\EntityManager\\EntityManager.h",
               "RelativeToolTip": "src\\Entity\\EntityManager\\EntityManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-04T13:54:13.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Entity.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\Entity.cpp",
               "RelativeDocumentMoniker": "src\\Entity\\Entity.cpp",
@@ -303,33 +330,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\Entity.h",
               "RelativeDocumentMoniker": "src\\Entity\\Entity.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Entity\\Entity.h",
               "RelativeToolTip": "src\\Entity\\Entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-04T13:40:03.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "Engine.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.cpp",
               "RelativeDocumentMoniker": "src\\Engine\\Engine.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.cpp",
               "RelativeToolTip": "src\\Engine\\Engine.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T21:20:47.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 22,
               "Title": "Tile.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Grid\\Tile.cpp",
               "RelativeDocumentMoniker": "src\\Grid\\Tile.cpp",
@@ -341,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "GameState.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\GameState.cpp",
               "RelativeDocumentMoniker": "GameState.cpp",
@@ -354,39 +381,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "Editor.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.cpp",
               "RelativeDocumentMoniker": "src\\Editor\\Editor.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.cpp",
               "RelativeToolTip": "src\\Editor\\Editor.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-03T21:48:50.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "Editor.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.h",
               "RelativeDocumentMoniker": "src\\Editor\\Editor.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Editor\\Editor.h",
               "RelativeToolTip": "src\\Editor\\Editor.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-03T20:42:47.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "Engine.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.h",
               "RelativeDocumentMoniker": "src\\Engine\\Engine.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\Visual Studio\\C\u002B\u002B\\Project Maya\\src\\Engine\\Engine.h",
               "RelativeToolTip": "src\\Engine\\Engine.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-03T20:59:23.509Z",
               "EditorCaption": ""

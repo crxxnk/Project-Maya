@@ -5,6 +5,8 @@ C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Editor\Editor.cpp;C:\User
 C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Engine\Engine.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\Engine.obj
 C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Entity\EntityManager\EntityManager.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\EntityManager.obj
 C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Game\Game.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\Game.obj
+C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Grid\Grid.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\Grid.obj
+C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Grid\Tile.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\Tile.obj
 C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\main.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\main.obj
 C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Player\Player.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\Player.obj
 C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\src\Rendering\Renderer.cpp;C:\Users\PC\Desktop\Visual Studio\C++\Project Maya\Project Maya\x64\Debug\Renderer.obj

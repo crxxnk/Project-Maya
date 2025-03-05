@@ -9,6 +9,7 @@
 #include "../Editor/Editor.h"
 #include <vector>
 #include <iostream>
+#include <iomanip>
 
 class Game {
 	sf::Clock clock;

@@ -22,7 +22,11 @@ void Game::render()
 void Game::run(sf::RenderWindow* window)
 {
     player = new Player({ 10, 10 }, { 10, 10 });
+    std::cout << "Player: " << player->getID() << std::endl;
     entities.push_back(player);
+    spawnEntity(new NPC({ 10, 10 }, { 10, 10 }));
+    spawnEntity(new NPC({ 10, 10 }, { 10, 10 }));
+    spawnEntity(new NPC({ 10, 10 }, { 10, 10 }));
     spawnEntity(new NPC({ 10, 10 }, { 10, 10 }));
     this->window = window;
     while (this->window->isOpen() && currentState == GameState::GAME)
@@ -49,8 +53,9 @@ void Game::update(float deltaTime)
     std::cout << "Game updating" << std::endl;
 
     for (auto& entity : entities) {
-        if(entity)
+        if (entity) {
             entity->update(deltaTime);
+        }
     }
 
     if (!entities.empty()) {
@@ -74,7 +79,7 @@ void Game::update(float deltaTime)
 
     std::cout << "Entities: ";
     for (auto entity : entities) {
-        std::cout << entity->getID() << " ";
+        std::cout << std::hex << std::showbase << entity->getID() << " ";
         entity->update(deltaTime);
     }
     std::cout << std::endl;
@@ -109,4 +114,5 @@ void Game::handleInput(float deltaTime)
 Game::~Game() {
     for (auto entity : entities)
         delete entity;
+    entities.clear();
 }

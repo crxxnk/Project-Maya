@@ -34,7 +34,6 @@ struct Settings {
 
 
 	// Audio Settings
-	float MASTER_VOLUME = 1.0f;
 	bool ENABLE_AUDIO = true;           // Whether audio is enabled
 	float MASTER_VOLUME = 1.0f;         // Master volume (0 to 1)
 	float MUSIC_VOLUME = 0.7f;          // Volume for background music
